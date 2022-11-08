@@ -431,7 +431,7 @@ mappings:
     reverse: false
     rule_ordering: apply-longest-first
   - authors:
-      - Generated 2022-10-21 13:19:15.993746
+      - Generated 2022-11-08 08:51:45.399230
     case_sensitive: true
     display_name: nsy-ipa to eng-ipa
     escape_special: false
